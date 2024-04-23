@@ -1,0 +1,10 @@
+# Ignore contents of weather_forecast directory
+weather_forecast/*
+# Allow weather_forecast directory
+!weather_forecast/
+
+# Ignore Python cache files
+__pycache__/
+
+# Ignore system-specific files
+.DS_Store

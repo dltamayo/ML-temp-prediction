@@ -1,0 +1,34 @@
+{
+    "New York": {
+        "latitude": 40.779335,
+        "longitude": -73.968936,
+        "site": "OKX",
+        "issue": "NYC",
+        "location_key": 2627448,
+        "series_ticker": "HIGHNY"
+    },
+    "Austin": {
+        "latitude": 30.202191,
+        "longitude": -97.666598,
+        "site": "EWX",
+        "issue": "AUS",
+        "location_key": 351193,
+        "series_ticker": "HIGHAUS"
+    },
+    "Chicago": {
+        "latitude": 41.788301,
+        "longitude": -87.742379,
+        "site": "LOT",
+        "issue": "MDW",
+        "location_key": 348308,
+        "series_ticker": "HIGHCHI"
+    },
+    "Miami": {
+        "latitude": 25.754501,
+        "longitude": -80.383604,
+        "site": "MFL",
+        "issue": "MIA",
+        "location_key": 347936,
+        "series_ticker": "HIGHMIA"
+    }
+}
